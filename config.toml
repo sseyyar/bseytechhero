@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-hero-theme"
 themesDir = "themes"
-title = "Hugo Hero Theme"
+title = "BSeyTech"
 [[menu.main]]
 name = "Work"
 url = "/#work/"
