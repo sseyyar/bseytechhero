@@ -1,9 +1,9 @@
 ---
-title: 'History'
-date: 2018-12-06T09:29:16+10:00
-draft: false
----
+title: History
+date: 2018-12-06T09:29:16.000+10:00
+draft: true
 
+---
 # About Heading
 
 {{< content-strip-left "/pages/history" "content1" >}}
