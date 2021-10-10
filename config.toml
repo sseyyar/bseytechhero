@@ -4,12 +4,8 @@ theme = "hugo-hero-theme"
 themesDir = "themes"
 title = "Hugo Hero Theme"
 [[menu.main]]
-name = "Services"
-url = "/services/"
-weight = 1
-[[menu.main]]
 name = "Work"
-url = "/work/"
+url = "/#work/"
 weight = 2
 [[menu.main]]
 name = "About"
@@ -23,6 +19,10 @@ weight = 4
 name = "Contact"
 url = "/contact/"
 weight = 5
+[[menu.main]]
+name = "Services"
+url = "/#services/"
+weight = 1
 [module.hugoVersion]
 extended = true
 min = "0.55.0"
